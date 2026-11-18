@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🚀 热爱编程 | 开源爱好者 | 持续学习
+  🧠 AI Perception & Deep Learning | 🌍 Open Source Enthusiast | 🚀 Lifelong Learner
 </p>
 
 <!-- GitHub 贪吃蛇动画 -->
